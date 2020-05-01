@@ -1,5 +1,5 @@
 # No_find
-##### run in terminal
+##### Run in terminal:
 <code>
 AibarOrers.py
 </code>
